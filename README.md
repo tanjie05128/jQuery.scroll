@@ -1,5 +1,5 @@
 # jQuery.scroll
-jQuery扩展scroll时间，监听滚动 停止事件
+jQuery扩展scroll，监听滚动 停止事件
 
 eg: 
 
